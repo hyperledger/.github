@@ -5,6 +5,6 @@ The mission of the Hyperledger Foundation is to foster and coordinate the premie
 This organization contains the repositories for the Hyperledger Foundation and many of the hosted projects and working groups. Below is the list of core Academy Software Foundation repositories hosted here.
 
 - [TOC](https://github.com/hyperledger/toc) is the home of the TOC processes, policies, programs, and meeting minutes. You can most easily view these materials at [toc.hyperledger.org](https://toc.hyperledger.org/).
-- [hyperledger-landscape](https://github.com/hyperledger-landscape/hl-landscape) is the source for the Hyperledger Foundation Landscape and where you can suggest changes and new entries. You can view the landscape at [landscape.hyperledger.org](https://landscape.hyperledger.org/)
+- The [hyperledger-dlt-landscape](https://github.com/hyperledger-dlt-landscape/hyperledger-dlt-landscape) is the source for the Hyperledger Foundation DLT Landscape and where you can suggest changes and new entries. You can view the landscape at [dltlandscape.hyperledger.org/](https://dltlandscape.hyperledger.org/)
 
 There are a number of ways that you can get involved with the [Hyperledger community](http://hyperledger.org/community): participate on the [Hyperledger mailing lists](http://lists.hyperledger.org/), start or join a [Hyperledger meetup](http://www.meetup.com/pro/hyperledger/), or join us on [Hyperledger's Discord server](https://wiki.hyperledger.org/display/HYP/Our+chat+service)
