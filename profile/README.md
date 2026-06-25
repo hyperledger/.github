@@ -1,10 +1,31 @@
 ## ![Hyperledger Logo](https://github.com/hyperledger/.github/raw/main/logo.svg)
 
-The mission of Hyperledger is to foster and coordinate the premier community of software developers building enterprise grade open source software, in the form of platforms, libraries, tools and solutions, for multiparty systems using blockchain, distributed ledger, and related technologies; host the technical infrastructure for the Foundation, establishing a neutral home for community infrastructure, meetings, events, and collaborative discussions; drive broad adoption of the technology by building a substantial and diverse ecosystem of solution providers delivering production solutions and networks, and organizing industry end-users; advocate for the use and adoption of enterprise multiparty systems technologies through marketing, education and outreach; and work with other aligned organizations to accelerate implementation and public acceptance.
+# Hyperledger
 
-This organization contains the repositories for Hyperledger and many of the hosted projects and working groups. Below is the list of core Hyperledger repositories hosted here.
+*Hyperledger is part of LF Decentralized Trust, which expanded from Hyperledger Foundation into the Linux Foundation’s flagship organization for decentralized trust technologies.*
 
-- [TAC](https://lf-decentralized-trust.github.io/governance/) is the home of the TAC processes, policies, programs, and meeting minutes. You can most easily view these materials at [lf-decentralized-trust.github.io/governance](https://lf-decentralized-trust.github.io/governance/)
-- The [hyperledger-dlt-landscape](https://github.com/hyperledger-dlt-landscape/hyperledger-dlt-landscape) is the source for the Hyperledger Foundation DLT Landscape and where you can suggest changes and new entries. You can view the landscape at [dltlandscape.hyperledger.org/](https://dltlandscape.hyperledger.org/)
+LF Decentralized Trust brings together the full Hyperledger ecosystem, Trust Over IP, Hiero, and a growing landscape of ledger, identity, interoperability, cryptographic, privacy, smart contract, and integration projects.
 
-There are a number of ways that you can get involved with the [Hyperledger community](http://hyperledger.org/community): participate on the [Hyperledger mailing lists](http://lists.hyperledger.org/), start or join a [Hyperledger meetup](http://www.meetup.com/pro/hyperledger/), or join us on Hyperledger's Discord server: [![Join Hyperledger Discord Server](https://discordapp.com/api/guilds/905194001349627914/widget.png)](https://discord.gg/hyperledger)
+The Hyperledger name continues as an important project brand within LF Decentralized Trust, including Hyperledger Fabric and related Hyperledger technologies. This GitHub organization preserves the Hyperledger namespace, while the current foundation identity, governance, and broader project landscape are represented by LF Decentralized Trust.
+
+This organization contains repositories for Hyperledger-branded projects, related technical assets, and historical Hyperledger community infrastructure. Below are key resources for the current LF Decentralized Trust community.
+
+## Governance
+
+The governance repository is the home of LF Decentralized Trust TAC processes, policies, programs, and meeting minutes. These materials can also be viewed at:
+
+https://lf-decentralized-trust.github.io/governance/
+
+## Landscape
+
+The LF Decentralized Trust Landscape provides an overview of projects, technologies, members, and ecosystem participants across the broader decentralized trust community. It can be viewed at:
+
+https://landscape.lfdecentralizedtrust.org/
+
+## Community
+
+There are several ways to get involved with the LF Decentralized Trust community. You can participate on the LF Decentralized Trust mailing lists, start or join a LF Decentralized Trust meetup, or join the LF Decentralized Trust Discord server.
+
+Join the LF Decentralized Trust Discord server:
+
+https://discord.gg/hyperledger
