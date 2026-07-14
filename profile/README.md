@@ -1,4 +1,4 @@
-## ![Hyperledger Logo](https://github.com/hyperledger/.github/raw/main/logo.svg)
+## ![Hyperledger Logo](https://github.com/hyperledger/.github/raw/main/Hyperledger_Fabric.svg)
 
 # Hyperledger
 
