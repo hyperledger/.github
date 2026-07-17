@@ -22,13 +22,6 @@ The LF Decentralized Trust Landscape provides an overview of projects, technolog
 
 https://landscape.lfdecentralizedtrust.org/
 
-## Community
-
-There are several ways to get involved with the LF Decentralized Trust and Hyperledger Fabric communities. You can participate on the LF Decentralized Trust mailing lists, start or join an LF Decentralized Trust meetup, or join the LF Decentralized Trust Discord server.
-
-Join the LF Decentralized Trust Discord server:
-
-https://discord.gg/hyperledger
 
 ---
 
@@ -36,9 +29,9 @@ https://discord.gg/hyperledger
 
 - [About This Organization](#about-this-organization)
 - [Hyperledger Fabric Overview](#hyperledger-fabric-overview)
-- [Repositories](#repositories)
-- [Resources](#resources)
 - [How to Participate](#how-to-participate)
+- [Resources](#resources)
+- [Repositories](#repositories)
 - [Licensing](#licensing)
 
 ---
@@ -71,6 +64,34 @@ Key characteristics include:
 [↑ Back to top](#hyperledger-fabric)
 
 ---
+## How to Participate
+
+1. Review the [Hyperledger Fabric GitHub organization](https://github.com/hyperledger).
+2. Read the [Hyperledger Fabric documentation](https://hyperledger-fabric.readthedocs.io/).
+3. Join community discussions on [LFDT Discord](https://discord.gg/hyperledger) — channel `#fabric`.
+4. Attend community meetings — Fabric contributor meetings are open to all interested participants. See the [meeting calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/fabric?view=month).
+5. Try the [fabric-samples](https://github.com/hyperledger/fabric-samples) to get hands-on experience with the platform.
+6. Choose a repository that matches your area of interest from the tables above.
+7. Open issues for bugs, documentation gaps, or feature ideas.
+8. Submit pull requests with clear descriptions and links to related issues.
+
+For larger changes, please open an issue first so the community can discuss the design before implementation.
+
+[↑ Back to top](#hyperledger-fabric)
+
+---
+
+## Resources
+
+- The [Hyperledger Fabric documentation](https://hyperledger-fabric.readthedocs.io/) is the official source for tutorials, concepts, operations guides, and API references.
+- The [LF Decentralized Trust project page](https://www.lfdecentralizedtrust.org/projects/fabric) gives an overview of the project within the broader LFDT landscape.
+- The [Fabric GitHub releases](https://github.com/hyperledger/fabric/releases) provide release notes, changelogs, and downloadable binaries.
+- The [fabric-samples](https://github.com/hyperledger/fabric-samples) repository is the best starting point for hands-on experimentation.
+- Watch community presentations through the [LFDT YouTube playlists](https://www.youtube.com/c/Hyperledger/playlists), which include Hyperledger Fabric content.
+- Our [Code of Conduct](https://www.lfdecentralizedtrust.org/code-of-conduct) describes expected behavior across the LFDT community.
+- For security related issues, please follow the LFDT security reporting process. Do not post security related content, issues, or discussions publicly in any repository.
+
+[↑ Back to top](#hyperledger-fabric)
 
 ## Repositories
 
@@ -138,36 +159,6 @@ The repositories in this organization cover the Hyperledger Fabric core platform
 
 [↑ Back to top](#hyperledger-fabric)
 
----
-
-## Resources
-
-- The [Hyperledger Fabric documentation](https://hyperledger-fabric.readthedocs.io/) is the official source for tutorials, concepts, operations guides, and API references.
-- The [LF Decentralized Trust project page](https://www.lfdecentralizedtrust.org/projects/fabric) gives an overview of the project within the broader LFDT landscape.
-- The [Fabric GitHub releases](https://github.com/hyperledger/fabric/releases) provide release notes, changelogs, and downloadable binaries.
-- The [fabric-samples](https://github.com/hyperledger/fabric-samples) repository is the best starting point for hands-on experimentation.
-- Watch community presentations through the [LFDT YouTube playlists](https://www.youtube.com/c/Hyperledger/playlists), which include Hyperledger Fabric content.
-- Our [Code of Conduct](https://www.lfdecentralizedtrust.org/code-of-conduct) describes expected behavior across the LFDT community.
-- For security related issues, please follow the LFDT security reporting process. Do not post security related content, issues, or discussions publicly in any repository.
-
-[↑ Back to top](#hyperledger-fabric)
-
----
-
-## How to Participate
-
-1. Review the [Hyperledger Fabric GitHub organization](https://github.com/hyperledger).
-2. Read the [Hyperledger Fabric documentation](https://hyperledger-fabric.readthedocs.io/).
-3. Join community discussions on [LFDT Discord](https://discord.gg/hyperledger) — channel `#fabric`.
-4. Attend community meetings — Fabric contributor meetings are open to all interested participants. See the [meeting calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/fabric?view=month).
-5. Try the [fabric-samples](https://github.com/hyperledger/fabric-samples) to get hands-on experience with the platform.
-6. Choose a repository that matches your area of interest from the tables above.
-7. Open issues for bugs, documentation gaps, or feature ideas.
-8. Submit pull requests with clear descriptions and links to related issues.
-
-For larger changes, please open an issue first so the community can discuss the design before implementation.
-
-[↑ Back to top](#hyperledger-fabric)
 
 ---
 
